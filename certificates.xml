@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Certificates>
+    <Cert>
+        <Title>Sample Cert</Title>
+        <Customer>Sample Customer</Customer>
+        <ExpirationDate>00.00.0000</ExpirationDate>
+        <ServiceDeskAddress>admin@sample.tld</ServiceDeskAddress>
+    </Cert>
+</Certificates>
